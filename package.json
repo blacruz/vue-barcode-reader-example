@@ -10,6 +10,8 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
+    "vue-numeric-keyboard": "0.0.11",
+    "vue-quaggajs": "^1.0.12",
     "vue-router": "^3.2.0",
     "vuex": "^3.4.0"
   },
